@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: eef5fa8671abe7a45bd27f2c94b0abcc
+  - enabled: 1
+    path: Assets/Scenes/LevelSelectionScene.unity
+    guid: 188adb2e2f8cbc84695adfc309b0df1f
+  - enabled: 1
+    path: Assets/Scenes/FloodedDistrictScene.unity
+    guid: 566b6475450a1f2428d8bde209674da2
+  - enabled: 1
+    path: Assets/Scenes/DesertFortScene.unity
+    guid: b7ae2fd0692a1e84c9ceb2cd67a1fa5e
+  - enabled: 1
+    path: Assets/Scenes/ForestVillageScene.unity
+    guid: 9842f216f0095f5488f3305f85c74ec6
+  - enabled: 1
+    path: Assets/Scenes/SettingsInfoScene.unity
+    guid: d64191131aa60d143b5420588cd2f9aa
+  - enabled: 1
+    path: Assets/Scenes/LevelCompletedScene.unity
+    guid: 4a74d445c7ed8a3479a3eb0cf3c032e0
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: 134ce1e39eeb1b041a82c63ec6f56b4f
+  m_configObjects: {}
